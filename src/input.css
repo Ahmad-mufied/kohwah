@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+svg{
+    width: 30px;
+}
+
+/*.icon-cart{*/
+/*    position: relative;*/
+/*    margin-right: 50px;*/
+/*}*/
+/*.icon-cart span{*/
+/*    position: relative;*/
+/*    background-color: red;*/
+/*    width: 30px;*/
+/*    height: 30px;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    border-radius: 50%;*/
+/*    color: #fff;*/
+/*    top: 50%;*/
+/*    right: -20px;*/
+/*}*/
