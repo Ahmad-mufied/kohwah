@@ -1,4 +1,4 @@
-import products from './scripts/products.js';
+import products from './products.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     const productsContainer = document.getElementById('products');
