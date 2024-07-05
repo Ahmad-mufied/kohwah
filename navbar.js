@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 <a href="products.html" class="hover:text-gray-300">Coffee</a>
                 <a href="gallery.html" class="hover:text-gray-300">Gallery</a>
                 <a href="aboutUs.html" class="hover:text-gray-300">About</a>
-                <a href="contact.php" class="hover:text-gray-300">Contact</a>
+                <a href="contact.html" class="hover:text-gray-300">Contact</a>
             </div>
             <div class="space-x-2">
             <a href="cart.html"><button class="bg-transparent border border-white px-4 py-2 rounded hover:bg-white hover:text-black max-w-sm">
@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function() {
             </button></a>
 
             <a href="login.html"><button class="bg-transparent border border-white px-4 py-2 rounded hover:bg-white hover:text-black">Log In</button></a>
-            <a href="register.php"><button class="bg-transparent border border-white px-4 py-2 rounded hover:bg-white hover:text-black">Register</button></a>
+            <a href="register.html"><button class="bg-transparent border border-white px-4 py-2 rounded hover:bg-white hover:text-black">Register</button></a>
         </div>
         </div>
     </nav>
