@@ -1,4 +1,4 @@
-import products from './products.js';
+import products from './scripts/products.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     const productsContainer = document.getElementById('products');
@@ -8,10 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
         productCard.className = 'w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl';
 
         productCard.innerHTML = `
-           
-             
-                
-                <a href="#">
+        <a href="#">
             <img src="${product.imageUrl}"
                  alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
